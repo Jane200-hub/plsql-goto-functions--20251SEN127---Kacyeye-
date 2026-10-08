@@ -130,7 +130,8 @@ Number classification completed.
 
 ### Screenshot
 
-![A1 output](screenshots/A1_output.png)
+<img width="486" height="428" alt="A1_output (2)" src="https://github.com/user-attachments/assets/dbfe1a09-5e75-4d5c-90f0-781716e3bcd6" />
+
 
 ### A2 — Salary Review
 
@@ -145,7 +146,8 @@ Salary review completed.
 
 ### Screenshot
 
-![A2 output](screenshots/A2_output.png)
+<img width="448" height="490" alt="A2_output (2)" src="https://github.com/user-attachments/assets/186ef787-5145-440a-84a6-092e6629d416" />
+
 
 ### A3 — Illegal GOTO and Fix
 
@@ -155,7 +157,8 @@ The first block intentionally attempts to jump into a nested block. Oracle rejec
 
 ### Screenshot
 
-![A3 error and fix](screenshots/A3_error_and_fix.png)
+<img width="398" height="426" alt="A3_error_and_fix" src="https://github.com/user-attachments/assets/d66cfa13-7972-4266-987d-5c1413145aed" />
+
 
 ### A4 — Rewrite Without GOTO
 
@@ -165,7 +168,8 @@ The salary-review logic is rewritten using normal IF/ELSIF/ELSE structured contr
 
 ### Screenshot
 
-![A4 output](screenshots/A4_output.png)
+<img width="472" height="339" alt="A4_output" src="https://github.com/user-attachments/assets/048703d7-36ff-4b83-b7bb-b8eabb7eed04" />
+
 
 ## 7. Part B — Functions
 
@@ -209,7 +213,8 @@ The query demonstrates that the created functions can be called directly inside 
 
 ### Screenshot
 
-![B5 SELECT output](screenshots/B5_select_output.png)
+<img width="550" height="597" alt="B5_select_output" src="https://github.com/user-attachments/assets/878f28d2-2c1d-439e-9513-ba346ba4dcef" />
+
 
 ## 8. Part C — Payroll Validator
 
@@ -229,7 +234,8 @@ The test file also includes an intentionally invalid salary test to demonstrate 
 
 ### Screenshot
 
-![C1 output](screenshots/C1_output.png)
+<img width="567" height="473" alt="C1_output" src="https://github.com/user-attachments/assets/2fef1b0e-aeae-49da-ab0f-6f289b3ba0fe" />
+
 
 ## 9. Function Testing
 
